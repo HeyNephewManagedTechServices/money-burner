@@ -1,0 +1,15 @@
+{
+    "name": "This Could've Been an Email",
+    "short_name": "Email vs $$$",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#0f172a",
+    "icons": [
+      {
+        "src": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/png/128/1f4b8.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }
+    ]
+  }
